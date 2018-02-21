@@ -1,4 +1,4 @@
 # hello-world
-my first github code
+my first github
 
 okay i am trying to learn through github too
