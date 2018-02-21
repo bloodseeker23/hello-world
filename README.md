@@ -1,2 +1,4 @@
 # hello-world
-my first github code
+my first github 
+
+hey i ve been learing git hub
